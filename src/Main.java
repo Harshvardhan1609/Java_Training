@@ -1,12 +1,16 @@
-import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-        int a = 12;
-        int b;
-        System.out.println("Please a number : ");
-        Scanner scs = new Scanner(System.in);
-        b = scs.nextInt();
-        System.out.println("Hello MOTO" + Integer.toString(b));
+    int a = 10;
+    String s = "ABC";
+    void show(){
+        System.out.println(a+" "+s);
+    }
+    public static void main(String [] args) {
+        Main m = new Main();
+        Main m2 = new Main();
+        System.out.println("Reference ID  + " + m); //It will show the reference id
+        System.out.println("Reference ID  + " + m2);
+        m.show();
+        m2.show();
     }
 }
