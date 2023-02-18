@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f3dfaba-28ee-4845-aca9-df91310050e2" name="Changes" comment="initial">
-      <change afterPath="$PROJECT_DIR$/src/Modapp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obljects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OverloadingMainMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +56,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Overloading">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.Constructor">
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constructor" />
       <module name="Java_Training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,15 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Obljects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Obljects" />
+    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Overloading" />
       <module name="Java_Training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Overloading" />
+    <configuration name="OverloadingMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OverloadingMainMethod" />
       <module name="Java_Training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructor" />
+        <item itemvalue="Application.OverloadingMainMethod" />
         <item itemvalue="Application.Overloading" />
         <item itemvalue="Application.SimpleInterest" />
         <item itemvalue="Application.Modapp" />
-        <item itemvalue="Application.Obljects" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675500291705</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="initial">
+      <created>1676704934471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676704934471</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
